@@ -1,1 +1,5 @@
-# Super-Market-sales-Analysis-using-SQL-Server-
+- Conducted in-depth analysis of super market sales data using SQL to identify patterns, performances, and trends
+- Calculated total sales and analyzed customer purchasing behavior to uncover key insights
+- Examined sales data by time period to identify fluctuations and opportunities for improvement
+- Utilized SQL to extract valuable insights from large datasets, enabling data-driven decision making and operational optimization
+- Skills: Microsoft SQL Server · SQL
