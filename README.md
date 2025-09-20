@@ -7,7 +7,7 @@ The dataset contains transactional records from a supermarket, including fields 
 
 ## 🛠️ Technologies Used
 
-- MYSQL Workbench
+- SQL Server
 
 ## 📌 Key Insights Extracted
 
