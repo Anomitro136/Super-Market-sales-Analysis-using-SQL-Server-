@@ -30,7 +30,9 @@ The dataset contains transactional records from a supermarket, including fields 
 ## 📁 File Structure
 
 SQL_SERVER_PROJECT/
+
 ├── SQL SERVER PROJECT .pdf   # Contains all SQL queries used for analysis
+
 ├── README.md                    # Project documentation
 
 
